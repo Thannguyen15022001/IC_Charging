@@ -1,0 +1,4 @@
+bq24298.c:10:24:BQ24298_Update_Data	8	static
+bq24298.c:75:9:BQ24298_Check_data	16	static
+bq24298.c:134:6:BQ24298_Write_Mem	24	static
+bq24298.c:153:6:BQ24298_Read_Mem	16	static
